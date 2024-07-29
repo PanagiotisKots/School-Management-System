@@ -4,7 +4,9 @@ A CLI School Management System (S.M.S) For Windows platforms in C++
 <img src = "https://c4.wallpaperflare.com/wallpaper/935/690/342/c-plus-plus-c-code-wallpaper-preview.jpg">
 ---
  <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/5.jpg" width="4420px" height = "450px">
+ 
 <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/4.jpg" width="4400px" height = "450px">
+
 <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/10.jpg"  width="400px" height = "450px">  <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/6.jpg" width="400px" height = "450px">
 <br>
 <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/7.jpg" width="4450px" height = "450px"> <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/8.jpg"  width="4450px" height = "450px">
