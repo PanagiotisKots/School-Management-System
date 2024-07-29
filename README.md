@@ -1,4 +1,4 @@
-# School-Management-System
+#                                  School-Management-System
 <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/4.jpg" width="4400px" height = "600px">
 
 ---
