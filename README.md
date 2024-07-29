@@ -1,8 +1,9 @@
-<img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/4.jpg" width="4400px" height = "500px">
+# School-Management-System
+<img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/4.jpg" width="4400px" height = "600px">
 
 ---
 
-# School-Management-System
+
 A CLI School Management System (S.M.S) For Windows platforms in C++
 
 ---
