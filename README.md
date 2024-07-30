@@ -8,7 +8,7 @@
 
 
 # GALLERY
----
+
  <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/5.jpg" width="4420px" height = "450px">
  
 
