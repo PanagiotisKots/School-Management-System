@@ -33,7 +33,7 @@ To get started with the School Management CLI System, follow these steps:
 
 2. Navigate to the Project Directory:
 
-       cd School-Management-System
+       cd School-Management-System/src
 
 3. Compile the Code:
 
