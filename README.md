@@ -12,7 +12,7 @@ tailored for Windows platforms.
 
 ## 📚 Project Overview
 
-This CLI system was developed as part of a university assignment for a C++ course. The goal of this project is to create 
+This CLI system was developed as part of Educational Institute assignment for a C++ course. The goal of this project is to create 
 a functional and user-friendly application that facilitates the management of a school's data through a terminal interface.
 
 ## 🤖 Features
