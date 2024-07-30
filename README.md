@@ -1,10 +1,10 @@
-#   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School-Management-System
+#   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;School Management CLI System
 <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/4.jpg" width="4400px" height = "600px">
 
 ---
 
 
-A CLI School Management System (S.M.S) For Windows platforms in C++
+## Made for Windows platforms in C++
 
 ---
  <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/5.jpg" width="4420px" height = "450px">
