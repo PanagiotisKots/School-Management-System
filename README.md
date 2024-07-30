@@ -57,14 +57,6 @@ desired operations.
 
 
 To test the application, run it and interact with the different features. 
-You can also modify or add test cases in the test directory to ensure all 
-functionalities work as expected.
-
-
-## 📄 Documentation
-
-
-For detailed information about the application's design and features, refer to the DOCUMENTATION.md file in the repository.
 
 
 ## 🤝 Contributing
@@ -79,10 +71,15 @@ Make sure to follow the project's coding standards and include appropriate docum
 This project is licensed under the MIT License. See the LICENSE file for more details
 
 
-##📧 Contact
+## 📧 Contact
 
 For any questions or suggestions, feel free to reach out via email or create an issue in the repository.
 
+## ⚠️ Default Login credentials:
+      username = admin
+      password = root
+
+      
 # GALLERY
 
  <img src="https://github.com/PanagiotisKots/School-Management-System/blob/main/img/5.jpg" width="4420px" height = "450px">
