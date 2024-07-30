@@ -29,15 +29,15 @@ To get started with the School Management CLI System, follow these steps:
 
  1. Clone the Repository:
 
-        git clone https://github.com/yourusername/school-management-cli.git
+        git clone https://github.com/PanagiotisKots/School-Management-System.git
 
 2. Navigate to the Project Directory:
 
-       cd school-management-cli
+       cd School-Management-System
 
 3. Compile the Code:
 
-       g++ -o school_management main.cpp
+       Using g++ or a Development enviroment with integrated compiler for c/c++ (I use Dev C/C++ ide)
 
 4. Run the Application:
 
